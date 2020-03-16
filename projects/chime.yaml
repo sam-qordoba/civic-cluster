@@ -1,0 +1,4 @@
+---
+kind: streamlit
+image: registry.beta-cluster.phl.io/chime:latest
+port: 8000
